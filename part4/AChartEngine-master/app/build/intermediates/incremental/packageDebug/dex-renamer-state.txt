@@ -1,0 +1,7 @@
+#Fri Sep 15 10:59:27 CST 2017
+base.0=D\:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b68d56fc5195d704b28c58e6645e7645a529e88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b87c4889bce7bc22b89e20ce15dfee66916bdb25\\classes.dex
+base.1=D\:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b87c4889bce7bc22b89e20ce15dfee66916bdb25
+file.0=D\:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b68d56fc5195d704b28c58e6645e7645a529e88\\classes.dex

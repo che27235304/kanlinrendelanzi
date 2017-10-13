@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_my.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_color_level_line.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_color_level_line.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_support_line.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_support_line.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_support_bar_chart.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_support_bar_chart.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_support_cubicline.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_support_cubicline.xml"
+    },
+    {
+        "merged": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_color_level_multi_line.xml",
+        "source": "D:\\BigRating\\fourdemo\\AChartEngine-master\\app\\src\\main\\res\\layout\\activity_color_level_multi_line.xml"
+    }
+]

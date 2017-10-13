@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#5f97cca0</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AChartSDK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_support_bar_chart">SupportBarChartActivity</string>
+    <string name="title_activity_support_cubic_line">SupportCubicLineActivity</string>
+    <string name="title_activity_support_line">SupportLineActivity</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

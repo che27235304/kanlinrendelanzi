@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\BigRating\fourdemo\AChartEngine-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="45431469d4f8f8ad528067e340a58c0d918b8c9f">
+        <dex dex="D:\BigRating\fourdemo\AChartEngine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b68d56fc5195d704b28c58e6645e7645a529e88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BigRating\fourdemo\AChartEngine-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="3c128ab33b8abcb86998f64f11decd90719d9027">
+        <dex dex="D:\BigRating\fourdemo\AChartEngine-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b87c4889bce7bc22b89e20ce15dfee66916bdb25\classes.dex" />
+    </item>
+
+</items>
