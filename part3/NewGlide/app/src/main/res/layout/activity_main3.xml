@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jiyun.com.newglide.Main3Activity">
+<LinearLayout
+    android:layout_weight="3"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/ima1"
+        android:layout_weight="1"
+        android:layout_width="127dp"
+        android:layout_height="150dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/ima2"
+        android:layout_weight="1"
+        android:layout_width="127dp"
+        android:layout_height="150dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:id="@+id/ima3"
+        android:layout_weight="1"
+        android:layout_width="127dp"
+        android:layout_height="150dp" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_weight="3"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/ima4"
+            android:src="@mipmap/ic_launcher"
+            android:layout_weight="1"
+            android:layout_width="127dp"
+            android:layout_height="150dp" />
+        <ImageView
+            android:id="@+id/ima5"
+            android:layout_weight="1"
+            android:src="@mipmap/ic_launcher"
+            android:layout_width="127dp"
+            android:layout_height="150dp" />
+        <ImageView
+            android:id="@+id/ima6"
+            android:src="@mipmap/ic_launcher"
+            android:layout_weight="1"
+            android:layout_width="127dp"
+            android:layout_height="150dp" />
+    </LinearLayout>
+</LinearLayout>
